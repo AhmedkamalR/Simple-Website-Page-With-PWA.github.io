@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/simple-Website-Page-With-PWA.github.io",
-  "start_url": "/simple-Website-Page-With-PWA.github.io",
+  "scope": "https://ahmedkamalr.github.io/Simple-Website-Page-With-PWA.github.io/",
+  "start_url": "https://ahmedkamalr.github.io/Simple-Website-Page-With-PWA.github.io/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
