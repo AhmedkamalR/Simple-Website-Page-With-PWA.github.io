@@ -34,7 +34,7 @@ async function displaydetails(event){
     // title : body
     postscontainer.innerHTML=`
         <div style="border:2px solid black;padding:!0p ;margin:10px auto;width:80%">
-            <h2 style="padding:10px ; border:2px solid black;text-align:center;background-color:lightgray;">${jsobj.title}</h2>
+            <h2 style="padding:10px ; border:1px solid black;text-align:center;background-color:lightgray;">${jsobj.title}</h2>
             <p style="margin:10px auto;text-align:center;background-color:lightyellow;">${jsobj.body}</p>
         </div>
     `;
