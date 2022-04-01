@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.feature-span{
+    margin: auto;
+    padding: 1rem;
+    transition: .7s ease-in-out;
+    display: none;
+}
+.feature-span i{
+    font-size: 1.5rem;
+    border: 1px solid rgb(226, 209, 178);
+    border-radius: 25%;
+    padding: 0.5rem;
+    background-color: rgb(216, 195, 157);
+}
+.feature-span i:hover{
+background-color: rgb(120, 211, 247);
+}
+.check-icon i{
+    font-size: 1.5rem;
+    color: white;
+       border: 1px solid rgb(255, 0, 43);
+       border-radius: 50%;
+       padding: 0.5rem;
+       background-color: rgb(212, 23, 70);
+   }
+   #activity-img{
+    opacity: 0.5;
+}
+
+#activity-img:hover{
+    opacity: 1;
+}
+
+.activity-cards:hover .feature-span{
+  display: block;
+}
+
+.achievement-card:hover .text {
+  display: block;
+}
+
+
+.img{
+    width: 100%;
+    position: relative;
+}
+.img .feature-span{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+ #team-img{
+    opacity: 0.5;
+}
+
+#team-img:hover{
+    opacity: 1;
+}
+
+
+h1{
+    border:2px solid black;
+    text-align: center;
+    font:bold 15px verdana;
+    padding:10px;
+    background-color: lightyellow;
+}
+#imgcontainer{
+    text-align: center;
+    margin-top:20px;
+}
+
+#postscontainer{
+    width:100%;
+    text-align: center;
+}
+#postselect{
+    width:60%;
+    margin-left: 130px; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
